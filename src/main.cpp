@@ -11,7 +11,6 @@ const unsigned int SCR_WIDTH = 800;
 const unsigned int SCR_HEIGHT = 600;
 
 int main() {
-	//test
 	// glfw: initialize and configure
 	// ------------------------------
 	std::cout << "Hello World!" << std::endl;

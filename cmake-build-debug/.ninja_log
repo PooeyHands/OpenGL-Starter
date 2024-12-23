@@ -1,0 +1,21 @@
+# ninja log v6
+29	1889	7566283569573827	external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	9d93fc3136028cda
+65	1940	7566283569940919	external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	1754b5b58cb7ea03
+85	1978	7566283570131870	external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	e7d0af1d96e0d36b
+59	2037	7566283569875821	external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	b915cc905ba52a31
+18	2038	7566283569472729	external/glfw/src/CMakeFiles/glfw.dir/input.c.obj	13de2a1f836a7d3f
+24	2046	7566283569523419	external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	e6b873f98124c710
+52	2053	7566283569805759	external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	fa3245f5ba222c2b
+35	2054	7566283569634236	external/glfw/src/CMakeFiles/glfw.dir/window.c.obj	9a36348df87bafee
+78	2083	7566283570071430	external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	d531d609649bec30
+41	2092	7566283569694912	external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	5d859fca21d26f8b
+7	2093	7566283569361808	external/glfw/src/CMakeFiles/glfw.dir/context.c.obj	c3caea3205fa08db
+14	2126	7566283569422289	external/glfw/src/CMakeFiles/glfw.dir/init.c.obj	fda933a3a5e666e3
+46	2130	7566283569745343	external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	267c2c865e78f8e8
+72	2156	7566283570010983	external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	526113e4344a0570
+1978	2672	7566283589064001	CMakeFiles/OpenGLStarter.dir/src/main.cpp.obj	542eb753a98fbcec
+1893	3060	7566283588218161	external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	6d936bb871e15bc8
+3060	3161	7566283599883278	external/glfw/src/libglfw3.a	244d6e0909770c7e
+1940	3310	7566283588688588	external/glad/CMakeFiles/glad.dir/src/glad.c.obj	f6128e04e861fff2
+3310	3378	7566283602388927	external/glad/libglad.a	af2d04eb7ec9af41
+3378	3569	7566283603074603	OpenGLStarter.exe	ed62ae4112c30fbb
